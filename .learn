@@ -1,0 +1,12 @@
+languages:
+  - html
+  - css
+tags:
+  - cascading style sheet
+  - selectors
+  - kitten
+type:
+  - lab
+tests:
+ - green_onion
+resources: 0
